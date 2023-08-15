@@ -16,12 +16,12 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 ### About Me
 
-On the market PhD candidate at UC Irvine’s [Criminology, Law & Society](https://cls.soceco.uci.edu/pages/phd-program) program with an emphasis in Race and Justice. I have been recognized with the 2023-24 Haynes Dissertation Fellowship, the 2022-23 [National Collaborative on Gun Violence Research Dissertation Award](https://www.ncgvr.org/grants/2022/assessing-the-causes-of-gun-desirability-in-america.html), the 2022-23 UC Irvine Public Impact Fellowship, and the 2018-23 Social Ecology Arnie Binder Fellowship. I perform fieldwork and manage datasets for the [Shadow Costs](https://www.shadowcosts.com) project, which tests the impact of rehabilitation classes and monetary sanctions (with funding by NSF, NIJ, RSF, and Haynes grants). Additionally, I am an active member of the [Irvine Laboratory for the Study of Space and Crime](http://ilssc.soceco.uci.edu/).
+On the market PhD candidate at UC Irvine’s [Criminology, Law & Society](https://cls.soceco.uci.edu/pages/phd-program) program with an emphasis in Race and Justice. I have been recognized with the 2023-24 Haynes Dissertation Fellowship, the 2022-23 [National Collaborative on Gun Violence Research Dissertation Award](https://www.ncgvr.org/grants/2022/assessing-the-causes-of-gun-desirability-in-america.html), the 2022-23 UC Irvine Public Impact Fellowship, and the 2018-23 Social Ecology Arnie Binder Fellowship. I perform fieldwork and manage datasets for the [Shadow Costs](https://www.shadowcosts.com) project, which tests the impact of rehabilitation classes and monetary sanctions (with funding by NSF, NIJ, RSF, and Haynes grants). Additionally, I am an active member of the [Irvine Laboratory for the Study of Space and Crime](http://ilssc.soceco.uci.edu/). Please see my CV above for the latest!
 
 
 ### Service
